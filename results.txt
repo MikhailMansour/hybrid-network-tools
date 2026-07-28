@@ -1,0 +1,40 @@
+Domain: google.com | IP: 142.251.209.78
+ Name Servers:
+ns4.google.com.
+ns3.google.com.
+ns2.google.com.
+ns1.google.com.
+
+------------------------------
+
+--- Port Scan Results for:  142.251.209.78 ---
+Port 21: Error - [Errno 11001] getaddrinfo failed
+Port 22: Error - [Errno 11001] getaddrinfo failed
+Port 80: Error - [Errno 11001] getaddrinfo failed
+Port 443: Error - [Errno 11001] getaddrinfo failed
+
+------------------------------
+
+--- Port Scan Results for: 142.250.181.238 ---
+Port 21: CLOSED
+Port 22: CLOSED
+Port 80: OPEN
+Port 443: OPEN
+
+------------------------------
+Status Code: 200
+Server: gws
+Title: Google
+------------------------------
+Status Code: 200
+Server: gws
+Title: Google
+------------------------------
+Full Integration Scan for google.com (142.251.209.78):
+--- Port Scan Results for: 142.251.209.78 ---
+Port 21: CLOSED
+Port 22: CLOSED
+Port 80: CLOSED
+Port 443: CLOSED
+
+------------------------------
